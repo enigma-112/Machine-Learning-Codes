@@ -16,8 +16,8 @@ Programs based on :
   
 ## Feature requirements  
   
-|    |   User Case Name      | Description                                                                                                                              |
-|----|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|    |   User Case Name      | Description |
+|----|-----------------------|-------------|
 | 1  | Coding Area           | When a user visits this online ide, he gets a webpage with<br> empty coding area where he can write the code or can paste any code.<br>  |
 | 2  | Input - Output Box    | Input box is to take inputs as test cases and output box is<br>to show the output on that particular test case.                          |
 | 3  | Download              | We can download the code , input and output file as a .txt<br>file.                                                                      |
